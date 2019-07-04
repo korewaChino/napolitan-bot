@@ -16,7 +16,6 @@ If you, for some reason, want to host your own instance of this simple Naporitan
  - Yarn Package Manager
  - Your own Google Custom Search Engine (CSE), along with it's ID and API key.
  - A Twitter Developer account, including the app and API key for said app.
- - A dotENV loader (Such as [Foreman](https://github.com/strongloop/node-foreman))
  - Git (if you didn't clone this by downloading it as a ZIP)
 ### Setup
 After making sure you installed or have everything mentioned in the prerequisites, start by cloning this repository by typing this into your terminal
